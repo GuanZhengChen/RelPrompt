@@ -1,6 +1,3 @@
-# Codes for paper: 
-> [Zaiqiao Meng, Fangyu Liu, Thomas Hikaru Clark, Ehsan Shareghi, Nigel Collier. Mixture-of-Partitions: Infusing Large Biomedical Knowledge Graphs into BERT. EMNLP2021](https://arxiv.org/abs/2109.04810)
-
 ## File structure
 
 - `data_dir`: downstream task dataset used in the experiments.
